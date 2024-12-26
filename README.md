@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ryan! aka @ras25-96
+- 👋 Hi, I’m Ryan! aka @ryan77145
 - 👀 I’m interested in cyber security and all things tech!
 - 🌱 I’m currently learning as much as I can surrounding the world of cyber security. I am using Github, tryhackme, hackthebox, and other tools to gain knowledge and hands on practice.
 - 😄 Pronouns: He/Him
