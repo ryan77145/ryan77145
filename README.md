@@ -11,7 +11,7 @@
   - TestOut Network Pro Certification
   - Comptia A+, Network+, and Security+ in progress
   - No current paid experience in the field
-  - Through personal expeirence and self-taught journey teaching myself all topics I can get my hands on
+  - Through personal expeirence and a self-taught journey, I have been teaching myself all topics I can get my hands on!
 
 <!---
 ras-2596/ras-2596 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
