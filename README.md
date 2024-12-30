@@ -6,12 +6,13 @@
 
 - Background:
   - Bachelors of Science in Information Technology completed November 2023
-  - Masters of Science in Criminal Justice in progress
+  - Masters of Science in Cyber Security in progress
   - TestOut PC Pro Certification
   - TestOut Network Pro Certification
-  - Comptia A+, Network+, and Security+ in progress
+  - Comptia Security+ in progress
   - No current paid experience in the field
   - Through personal expeirence and a self-taught journey, I have been teaching myself all topics I can get my hands on!
+  - I am excited to continue my learning journey and am eager to obtain a postition in the cyber security field!
 
 <!---
 ras-2596/ras-2596 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
