@@ -1,21 +1,51 @@
-- 👋 Hi, I’m Ryan! aka @ryan77145
-- 👀 I am passionate about cyber security and all things tech!
-- 🌱 I’m currently learning as much as I can surrounding the world of cyber security. I am using Github, tryhackme, hackthebox, and other tools to gain knowledge and hands on practice.
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I am a truck driver transitioning to the tech world!
+Hi, I’m Ryan (@ryan77145)
 
-- Background:
-  - Bachelors of Science in Information Technology completed November 2023
-  - Masters of Science in Cyber Security in progress
-  - TestOut PC Pro Certification
-  - TestOut Network Pro Certification
-  - ISC2 Certified in Cybersecurity Certification
-  - Comptia Security+ in progress
-  - No current paid experience in the field
-  - Through personal expeirence and a self-taught journey, I have been teaching myself all topics I can get my hands on!
-  - I am excited to continue my learning journey and am eager to obtain a postition in the cyber security field!
+Entry-Level Cybersecurity / SOC Analyst Candidate
 
-<!---
-ras-2596/ras-2596 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I’m an IT graduate focused on blue team operations and SOC workflows, currently building hands-on experience through structured labs, simulations, and security platforms.
+
+
+🎯 Target Roles
+- SOC Analyst (Tier 1 / Junior)
+- Junior Security Analyst
+- IT Security Analyst
+
+
+🛠 Core Skills & Tools
+- Security Monitoring & Alert Triage
+- Log Analysis (SIEM fundamentals)
+- Incident Handling & Documentation
+- Windows & Networking Fundamentals
+- GitHub, Markdown, Linux basics
+
+Platforms & Tools:
+- TryHackMe (Blue Team & SOC paths)
+- LetsDefend (SIEM investigations & IR workflows)
+- HackTheBox (practical security labs)
+- Virtual Labs (Windows, Linux, networking)
+- GitHub (documentation & version control)
+
+
+🔄 Currently Working On
+- Building a cybersecurity portfolio with SIEM investigations, phishing analysis, and incident response reports.
+
+
+🎓 Education
+- B.S. in Information Technology** — Completed November 2023  
+- M.S. in Cybersecurity** — In Progress
+
+
+📜 Certifications
+- ISC2 Certified in Cybersecurity (CC)
+- CompTIA Security+ (In Progress)
+- TestOut PC Pro
+- TestOut Network Pro
+
+
+📌 About This GitHub
+This GitHub is used to document hands-on security learning, lab work, and practical exercises relevant to SOC and blue team roles. Repositories focus on transferable skills such as detection, analysis, and incident response workflows.
+
+
+📫 Contact  
+- Email: cslearning25@gmail.com  
+- Location: Kansas City, MO
