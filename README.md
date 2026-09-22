@@ -29,8 +29,13 @@ B.A. in Information Technology — November 2023
 
 M.S. in Information Technology, Web Design & Development — In Progress
 
-Previously focused on IT and cybersecurity, which built a strong foundation in problem-solving and technical workflows before transitioning fully into frontend development.
+Previously focused on IT and cybersecurity, which built a strong foundation in problem-solving and technical workflows before transitioning fully into web and software development.
 
+---
+## 📜 Repos
+- The Odin Project: All TOP repos start with "odin".
+- freeCodeCamp: All FCC repos start with "fcc".
+- Portfolio Projects Repo: This repo contains repos within the repo to showcase projects in an organized manner.
 ---
 
 ## 📬 Contact
