@@ -15,6 +15,7 @@ I also run Ryan Shill Co., a web design and development business that works with
 - Node.js (contact form backend)
 - Responsive design & accessibility
 - Performance optimization
+- PostgreSQL
 - Google Analytics (custom JS implementation)
 - Git & GitHub
 - Vercel & DNS configuration
