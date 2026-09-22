@@ -1,6 +1,6 @@
 # Hi, I'm Ryan Shill
 
-Frontend Web Developer | Owner of Ryan Shill Co.
+Web & Software Developer | Owner of Ryan Shill Co.
 
 I build fast, clean, performance-optimized websites using vanilla JavaScript, HTML5, and CSS3. No templates, no page builders. Every project is custom-built to load fast and work right.
 
